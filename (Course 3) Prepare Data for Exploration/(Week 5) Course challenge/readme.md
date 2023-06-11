@@ -1,21 +1,25 @@
-## Optional: Engaging in the data community
+## Course challenge
 
-- 16 min of videos
-- 50 min of readings
+- 1 min of videos
+- 20 min of readings
+- 1 graded assessment
 
 <hr>
 
-Having a strong online presence can be a big help for job seekers of all kinds. In this part of the course, you’ll explore how to manage your online presence. You’ll also discover the benefits of networking with other data analytics professionals.
+Prepare for the course challenge by reviewing terms and definitions in the glossary. Then, demonstrate your knowledge of data collection, ethics and privacy, and bias during the quiz. You will also have an opportunity to apply your skill with spreadsheet and SQL functions, as well as filtering and sorting. Finally, secure and organize data with data analytics best practices.
 
 <br>
 
 ### Learning Objectives
 
-- Explain the importance of networking with other data analysts including reference to mentorship and communication
-- Apply best practices to manage a professional online presence
-- Describe approaches to build an online presence as a data analyst
+- Explain factors that should be considered when making decisions about data collection
+- Explain the relationship between data ethics and data privacy
+- Discuss characteristics of credible sources of data including reference to untidy data
+- Identify different types of bias including confirmation, interpretation, and observer bias
+- Demonstrate an understanding of how to use SQL functions to extract data from a database
+- Demonstrate an understanding of how to use spreadsheet functionality to import and inspect a given set of data
+- Describe best practices for organizing data
 
 <br>
 
-1. Create or enhance your online presence
-2. Build a data analytics network
+1. Course challenge
